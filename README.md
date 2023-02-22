@@ -6,7 +6,7 @@
 
 ## Development server
 
-Run `nx serve ecommerce-backend` for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+Run `nx serve ecommerce-backend` for a dev server. Run `nx serve ecommerce-frontend` for a Angular frontend. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 
 ## Understand this workspace
 
